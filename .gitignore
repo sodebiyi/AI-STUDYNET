@@ -1,0 +1,25 @@
+# --- Python / backend ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+*.db
+
+# --- Node / frontend ---
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# --- Env ---
+.env
+.env.local
+.env.*.local
+
+# --- OS / editor ---
+.DS_Store
+*.swp
+.vscode/
+.idea/
